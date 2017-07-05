@@ -1,3 +1,10 @@
+cifar*
+*.jpg
+*.h5
+*.tar.gz
+.idea
+.ipynb*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
